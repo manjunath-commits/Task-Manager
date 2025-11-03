@@ -26,6 +26,7 @@ A modern, feature-rich task management application built with React. This projec
 ## 📸 Screenshots
 
 The application features:
+
 - Clean, modern interface with gradient accents
 - Interactive statistics cards showing task metrics
 - Intuitive task management with color-coded priorities
@@ -34,17 +35,20 @@ The application features:
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (version 16 or higher)
 - npm (comes with Node.js)
 
 ### Installation
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -80,31 +84,37 @@ react-learning-project/
 This project showcases professional React development practices:
 
 ### 1. **State Management**
+
 - Multiple `useState` hooks for different data types
 - Complex state updates with arrays and objects
 - Derived state for computed values
 
 ### 2. **Effects & Side Effects**
+
 - `useEffect` for localStorage synchronization
 - Dependency arrays for optimal re-rendering
 - Data persistence patterns
 
 ### 3. **Component Architecture**
+
 - Separation of concerns with multiple components
 - Props drilling and callback functions
 - Reusable component patterns
 
 ### 4. **Event Handling**
+
 - Form submissions
 - Dynamic event handlers
 - Conditional rendering based on user actions
 
 ### 5. **Advanced List Operations**
+
 - Array methods (map, filter, reduce)
 - Conditional rendering with ternary operators
 - Key management in dynamic lists
 
 ### 6. **Modern CSS Techniques**
+
 - CSS Grid and Flexbox layouts
 - CSS animations and transitions
 - Responsive design with media queries
@@ -113,6 +123,7 @@ This project showcases professional React development practices:
 ## 🎯 Use Cases
 
 Perfect for:
+
 - Personal task tracking and productivity
 - Project management for small teams
 - Learning and practicing React development
@@ -133,6 +144,7 @@ Perfect for:
 ## 🏆 Resume/Portfolio Highlights
 
 When showcasing this project, emphasize:
+
 - **Full-stack skills**: Frontend development with data persistence
 - **User Experience**: Intuitive UI with search, filtering, and statistics
 - **Code Quality**: Clean component architecture and separation of concerns
@@ -168,6 +180,7 @@ When showcasing this project, emphasize:
 ## 🚀 Future Enhancements
 
 Potential improvements:
+
 1. **Backend Integration**: Connect to Node.js/Express API
 2. **Database**: Store tasks in MongoDB or PostgreSQL
 3. **Real-time Sync**: Use WebSockets for multi-device sync
